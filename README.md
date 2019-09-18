@@ -1,4 +1,4 @@
-# neural_sampling_machine (NSM)
+# Neural Sampling Machine (NSM)
 
 This repository contains the source code for the paper " " accepted for publication
 in NeurIPS 2019. 
@@ -21,14 +21,14 @@ implement the NSM as well as the conventional classifiers.
 ## Source Code and Platform Details
 
 The source code is written in Python and Pytorch under the GPL license. All the
-scripts have been tested on the following two machines: 
-    - Ryzen ThreadRipper with 64GB physical memory running 
-        - Arch Linux
-        - Python 3.7.4 and Pytorch 1.2.0
-        - GCC 9.1.0
-        - Equipped with three Nvidia GeForce GTX 1080 Ti GPUs
-    - Intel i7 with 64GB physical memory running
-        - Arch Linux
-        - Python 3.7.3 and Pytorch 1.0.1
-        - GCC 8.2.1
-        - Equipped with two Nvidia GeForce RTX 2080 Ti GPUs
+scripts have been tested on the following two machines:
+   - Ryzen ThreadRipper with 64GB physical memory running
+      - Arch Linux
+      - Python 3.7.4 and Pytorch 1.2.0
+      - GCC 9.1.0
+      - Equipped with three Nvidia GeForce GTX 1080 Ti GPUs
+   - Intel i7 with 64GB physical memory running
+      - Arch Linux
+      - Python 3.7.3 and Pytorch 1.0.1
+      - GCC 8.2.1
+      - Equipped with two Nvidia GeForce RTX 2080 Ti GPUs
