@@ -1,7 +1,7 @@
 # Neural Sampling Machine (NSM)
 
-This repository contains the source code for the paper " " accepted for publication
-in NeurIPS 2019. 
+This repository contains the source code for the paper "Inherent Weight Normalization in Stochastic Neural Networks" accepted for
+publication in NeurIPS 2019. 
 
 The file **model.py** implements Linear and Convolutional layers for Pytorch 
 that provide all the methods for building Neural Sampling Machine networks. 
